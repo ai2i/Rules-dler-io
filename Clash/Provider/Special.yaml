@@ -41,7 +41,7 @@ payload:
   - DOMAIN,ol.epicgames.com
   # - DOMAIN,store.steampowered.com
   - DOMAIN-SUFFIX,steamcontent.com
-  - DOMAIN-SUFFIX,steamserver.net
+  # - DOMAIN-SUFFIX,steamserver.net
 
   - DOMAIN-SUFFIX,steamchina.com
 
